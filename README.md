@@ -9,17 +9,16 @@
 <div align="center">
 
 ```
-     ___           ___           ___
-    /\__\         /\  \         /\  \
-   /::|  |       /::\  \       /::\  \
-  /:|:|  |      /:/\:\  \     /:/\:\  \
- /:/|:|  |__   /::\~\:\  \   /:/  \:\  \
-/:/ |:| /\__\ /:/\:\ \:\__\ /:/__/ \:\__\
-\/__|:|/:/  / \:\~\:\ \/__/ \:\  \ /:/  /
-    |:/:/  /   \:\ \:\__\    \:\  /:/  /
-    |::/  /     \:\ \/__/     \:\/:/  /
-    /:/  /       \:\__\        \::/  /
-    \/__/         \/__/         \/__/
+         .-') _   ('-.               
+    ( OO ) )_(  OO)              
+,--./ ,--,'(,------. .-'),-----. 
+|   \ |  |\ |  .---'( OO'  .-.  '
+|    \|  | )|  |    /   |  | |  |
+|  .     |/(|  '--. \_) |  |\|  |
+|  |\    |  |  .--'   \ |  | |  |
+|  | \   |  |  `---.   `'  '-'  '
+`--'  `--'  `------'     `-----'
+
 ```
 
 <br>
@@ -82,11 +81,6 @@
 ```
 
 <div align="center">
-
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=n-bit32&show_icons=true&bg_color=080808&title_color=b7ff00&text_color=555555&icon_color=b7ff00&border_color=1c1c1c&count_private=true&include_all_commits=true&ring_color=b7ff00"/>
-&nbsp;
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-bit32&layout=compact&bg_color=080808&title_color=b7ff00&text_color=555555&border_color=1c1c1c&langs_count=5"/>
-
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=n-bit32&background=080808&ring=b7ff00&fire=c87020&currStreakLabel=b7ff00&border=1c1c1c&sideLabels=555555&dates=333333&stroke=b7ff00&currStreakNum=b7ff00&sideNums=555555"/>
